@@ -3,13 +3,13 @@
 
 <h2>How to run SocialCloud via Docker</h2>
 
-<p>Open command line in the SocialCloudDocker location and run command: </p>
+<p>Open a command line in the SocialCloudDocker folder location and run the command: </p>
 
 ```
 docker compose up
 ```
 
-<p>Then open a browser and go to this location:</p>
+<p>Then open a browser and go to the location: </p>
 
 ```
 http://localhost:5000/
