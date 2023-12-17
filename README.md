@@ -9,7 +9,7 @@
 docker compose up
 ```
 
-<p>Then open browser and go to this location:</p>
+<p>Then open a browser and go to this location:</p>
 
 ```
 http://localhost:5000/
