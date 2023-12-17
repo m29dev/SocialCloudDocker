@@ -1,0 +1,13 @@
+services:
+    scmongo:
+        image: mongo
+        ports:
+            - '1000:27017'
+    scserver:
+        build: ./server
+        ports:
+            - '3000:3000'
+    scclient:
+        build: ./client
+        ports:
+            - '5000:5000'
